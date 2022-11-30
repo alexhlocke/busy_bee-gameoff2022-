@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>busy_bees</string>
+	<key>CFBundleGetInfoString</key>
+	<string>busy_bees</string>
+	<key>CFBundleIconFile</key>
+	<string>busy_bees.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.pico8_author.busy_bees</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>busy_bees</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>busy_bees</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>busy_bees</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.6</string>
+	<key>NSHighResolutionCapable</key>
+	<string>YES</string>
+	<key>NSSupportsAutomaticGraphicsSwitching</key>
+	<string>TRUE</string>
+</dict>
+</plist>
